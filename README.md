@@ -24,8 +24,7 @@ Apple Developer Academy @ POSTECH, NC2 Project
 
 ## :fireworks: Screenshots
 
-<img src="https://user-images.githubusercontent.com/56063805/189932818-f05be70c-910c-458d-a214-09b76f79e185.PNG" width="25%"><img src="https://user-images.githubusercontent.com/56063805/189932845-b20835f6-c363-43d0-9083-5405fbb5a3fd.PNG" width="25%">
-<img src="https://user-images.githubusercontent.com/56063805/189932866-02fb4415-66fd-431c-b70f-f7e508f794af.PNG" width="25%"><img src="https://user-images.githubusercontent.com/56063805/189932872-92e39189-2fee-4512-b505-132b8c56dee5.PNG" width="25%">
+<img src="https://user-images.githubusercontent.com/56063805/189932872-92e39189-2fee-4512-b505-132b8c56dee5.PNG" width="24%"><img src="https://user-images.githubusercontent.com/56063805/189932866-02fb4415-66fd-431c-b70f-f7e508f794af.PNG" width="24%"><img src="https://user-images.githubusercontent.com/56063805/189932845-b20835f6-c363-43d0-9083-5405fbb5a3fd.PNG" width="24%"><img src="https://user-images.githubusercontent.com/56063805/189932818-f05be70c-910c-458d-a214-09b76f79e185.PNG" width="24%">
 
 
 ## :sparkles: Skills & Tech Stack
